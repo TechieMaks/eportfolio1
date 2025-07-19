@@ -6,7 +6,7 @@
 
 ### About Me
 
-### [Professional](https://github.com/crypto61/eportfolio/blob/master/Professional.md)
+### [Professional](https://github.com/TechieMaks/eportfolio.github.io/blob/79fc2c39fffbe5692ca8afd0922b8e8ce851b47a/Professional1.md)
 
 ### [Personal](https://github.com/crypto61/eportfolio/blob/master/Personal.md) 
 

@@ -4,3 +4,5 @@
 
 ## [Units 1-3](https://github.com/TechieMaks/eportfolio.github.io/blob/85d6ec35b4c66b0ffe893bc4d322c91ddb163829/Unit%201-3.pdf)
 ## [Unit 4](https://github.com/TechieMaks/eportfolio.github.io/blob/8f44ca62b206a8d102535a629415c6835a6493a1/Unit%204%20Summary.pdf)
+## [Unit 5]
+## [Unit 6](https://github.com/TechieMaks/eportfolio.github.io/blob/2690b6de58c1a9ae629d39addf7a661acbf96bbf/Unit%206%20Summary.pdf)

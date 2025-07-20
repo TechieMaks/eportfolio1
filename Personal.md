@@ -1,3 +1,5 @@
+## Personal Bio
+
 I’m a beauty entrepreneur, data science student, and former finance professional—passionate about creating products that help women feel seen, confident, and celebrated.
 
 After several years working in mutual funds and investment services, I took a bold step into entrepreneurship, founding a luxury wig and hair extensions brand rooted in quality, care, and culture. What started as a creative passion quickly grew into a business where I now oversee everything from sourcing and product development to marketing and customer experience.

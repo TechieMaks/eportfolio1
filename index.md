@@ -13,9 +13,9 @@
 
 ### University of Essex Learning Experience
 
-*   [Induction Module](https://github.com/crypto61/eportfolio/blob/master/Induction.md)
-*   [**The Data Professional**](https://github.com/crypto61/eportfolio/blob/master/LCYS.md)
-*   [**Numerical Analysis**](http://example.com/)
+*   [**Induction Module**]
+*   [**The Data Professional**]
+*   [**Numerical Analysis**]
 *   [**Deciphering Big Data**](https://TechieMaks.github.io/eportfolio1/DBD)
 *   [Module 4 Title](http://example.com/)
 *   [Module 5 Title](http://example.com/)

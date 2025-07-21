@@ -6,9 +6,9 @@
 
 ### About Me
 
-### [Professional](https://github.com/TechieMaks/eportfolio.github.io/blob/79fc2c39fffbe5692ca8afd0922b8e8ce851b47a/Professional1.md)
+### [Professional](https://github.com/TechieMaks/eportfolio.github.io/Professional1)
 
-### [Personal](https://github.com/TechieMaks/eportfolio.github.io/blob/4d87db6b1434cdd77e495681931d50cf7c394d9a/Personal.md) 
+### [Personal](https://github.com/TechieMaks/eportfolio.github.io/Personal.md) 
 
 
 ### University of Essex Learning Experience

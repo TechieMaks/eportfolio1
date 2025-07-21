@@ -7,4 +7,4 @@
 ## [Unit 5]
 ## [Unit 6](https://github.com/TechieMaks/eportfolio.github.io/blob/2690b6de58c1a9ae629d39addf7a661acbf96bbf/Unit%206%20Summary.pdf)
 ## [Unit 7]
-## [Unit 8-10](Unit8to10Summary.pdf)
+## [Unit 8-10](https://github.com/TechieMaks/eportfolio.github.io/blob/884c0de164245ba7b60b066a2cff7274c10a7fe0/Unit%208%20to%2010%20Summary.pdf)

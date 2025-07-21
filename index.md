@@ -16,7 +16,7 @@
 *   [Induction Module](https://github.com/crypto61/eportfolio/blob/master/Induction.md)
 *   [**The Data Professional**](https://github.com/crypto61/eportfolio/blob/master/LCYS.md)
 *   [**Numerical Analysis**](http://example.com/)
-*   [**Deciphering Big Data**](https://github.com/TechieMaks/eportfolio.github.io/blob/e8d033f827403c972232a15f44083bf03774eeac/DBD.md)
+*   [**Deciphering Big Data**](https://TechieMaks.github.io/eportfolio1/DBD)
 *   [Module 4 Title](http://example.com/)
 *   [Module 5 Title](http://example.com/)
 

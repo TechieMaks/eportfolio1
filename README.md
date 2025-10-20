@@ -1,2 +1,2 @@
 ## e-Portfolio
-### Word count is 2,181 words for the Deciphering Big Data Module in my portfolio, excluding already submitted project files and references
+### Word count is 2,491 words for the Machine Learning Module in my portfolio, excluding already submitted project files and references

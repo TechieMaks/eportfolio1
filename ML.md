@@ -2,7 +2,7 @@
 
 ### This module gave me a practical introduction to machine learning, combining theory with real-world tasks. I worked with Python, explored key algorithms, and learned how to apply ML to real problems. It also highlighted the ethical and professional responsibilities involved in the field.
 
-## [Units 1](https://TechieMaks.github.io/eportfolio1/ML%20-%20Unit%201.pdf)
+## [Unit 1](https://TechieMaks.github.io/eportfolio1/ML%20-%20Unit%201.pdf)
 ## [Unit 2](https://TechieMaks.github.io/eportfolio1/ML%20-%20Unit%202.pdf)
 ## [Unit 3](https://TechieMaks.github.io/eportfolio1/ML%20-%20Unit%203.pdf)
 ## [Unit 4](https://TechieMaks.github.io/eportfolio1/ML%20-%20Unit%204.pdf)

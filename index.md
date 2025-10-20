@@ -18,7 +18,7 @@
 *   [**Numerical Analysis**]
 *   [**Deciphering Big Data**](https://TechieMaks.github.io/eportfolio1/DBD)
 *   [**Machine Learning**](https://TechieMaks.github.io/eportfolio1/ML)
-*   
+  
 
 ---
 

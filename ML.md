@@ -1,6 +1,6 @@
 # Machine Learning
 
-### This module improved my ability to handle complex datasets—from raw collection to clean, usable formats. I applied techniques like cleansing, normalisation, and transformation, while learning to assess data quality and choose the right tools for different tasks.
+### This module gave me a hands-on introduction to machine learning, blending theory with real-world application. I explored key algorithms, worked with Python for data analytics, and learned how to apply ML techniques to solve complex problems. Along the way, I also gained insight into the ethical and professional responsibilities that come with working in this field. Overall, it helped me build practical skills and confidence in using machine learning in real-life scenarios.
 
 ## [Units 1](https://TechieMaks.github.io/eportfolio1/ML%20-%20Unit%201.pdf)
 ## [Unit 2](https://TechieMaks.github.io/eportfolio1/ML%20-%20Unit%202.pdf)
